@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790887106220",
+    "project_id": "taxi-app-15e8d",
+    "storage_bucket": "taxi-app-15e8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790887106220:android:0f97f057c846a2f384c109",
+        "android_client_info": {
+          "package_name": "com.kazungudev.taxi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuhOYSmTTSPrKpPt1_CbBCghy-7_z5HOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
